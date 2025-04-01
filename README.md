@@ -2,7 +2,7 @@
 
 Automatically plays piano sheets.
 
-Made by C++ language.
+Made with C++ language.
 
 # USAGE
 
